@@ -34,21 +34,21 @@
 
 2.Compare num1 and num2:
 
-  If num1 is greater than num2:
+    If num1 is greater than num2:
 
-    Compare num1 and num3:
+      Compare num1 and num3:
 
-      If num1 is greater than num3, then num1 is the largest.
+        If num1 is greater than num3, then num1 is the largest.
 
-      Else, num3 is the largest.
+        Else, num3 is the largest.
 
 3.Else if num2 is greater than num1:
 
-  Compare num2 and num3:
+    Compare num2 and num3:
 
-    If num2 is greater than num3, then num2 is the largest.
+      If num2 is greater than num3, then num2 is the largest.
 
-    Else, num3 is the largest.
+      Else, num3 is the largest.
 
 4.Output the largest number.
 
