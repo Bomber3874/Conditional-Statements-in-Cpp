@@ -51,3 +51,54 @@
     Else, num3 is the largest.
 
 4.Output the largest number.
+
+# Stepwise Algorithm for Calculator using Switch Case
+
+1.Display the calculator menu with four options: Addition, Subtraction, Multiplication, and Division.
+
+2.Take user input for their choice of operation.
+
+3.Use switch-case to handle the choice:
+
+  Case 1 (Addition):
+
+    Prompt user to enter two numbers.
+
+    Read the two numbers.
+
+    Calculate the sum and display the result.
+
+  Case 2 (Subtraction):
+
+    Prompt user to enter two numbers.
+
+    Read the two numbers.
+
+    Calculate the difference and display the result.
+
+  Case 3 (Multiplication):
+
+    Prompt user to enter two numbers.
+
+    Read the two numbers.
+
+    Calculate the product and display the result.
+
+  Case 4 (Division):
+
+    Prompt user to enter two numbers.
+
+    Read the two numbers.
+
+    Check if the second number is zero:
+
+      If not zero, perform division and display the result.
+
+      If zero, display an error message for division by zero.
+
+  Default case:
+
+    If the user enters a choice not in 1-4, display “Invalid choice”.
+
+4.End program
+
