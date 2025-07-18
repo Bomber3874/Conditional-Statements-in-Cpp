@@ -27,3 +27,27 @@
   If no match is found, it can run a default option.
 
   Switch cases are often easier to read than many if-else statements when checking a single variable against many values.
+
+# Stepwise Algorithm for Finding the Greatest Number
+
+1.Input: Read three numbers from the user — num1, num2, and num3.
+
+2.Compare num1 and num2:
+
+  If num1 is greater than num2:
+
+    Compare num1 and num3:
+
+      If num1 is greater than num3, then num1 is the largest.
+
+      Else, num3 is the largest.
+
+3.Else if num2 is greater than num1:
+
+  Compare num2 and num3:
+
+    If num2 is greater than num3, then num2 is the largest.
+
+    Else, num3 is the largest.
+
+4.Output the largest number.
