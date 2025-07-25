@@ -2,6 +2,10 @@
 
 # AIM - Learning how to use Conditional statements in C++
 
+# Software Used
+
+Visual Studio Code
+
 # Theory
 
 # If - Else If - Else Statements
@@ -101,4 +105,12 @@
     If the user enters a choice not in 1-4, display “Invalid choice”.
 
 4.End program
+
+# Conclusion 
+
+In this experiment, we explored conditional statements in C++, specifically the if-else-if-else and switch-case structures. These statements are essential for making decisions in a program, allowing different actions to be executed based on varying conditions. The if-else chain is ideal for checking multiple conditions in sequence, while the switch-case is more efficient and readable when comparing a single variable against multiple constant values. Through practical examples like finding the greatest of three numbers and implementing a calculator, we learned how conditional logic improves program interactivity, control flow, and functionality. Understanding and using these structures effectively is key to writing logical and user-driven C++ programs.
+
+
+
+
 
